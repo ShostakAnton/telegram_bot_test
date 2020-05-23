@@ -1,0 +1,74 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 951148348,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 445228076,
+          "is_bot": false,
+          "first_name": "A",
+          "username": "Ant411"
+        },
+        "chat": {
+          "id": 445228076,
+          "first_name": "A",
+          "username": "Ant411",
+          "type": "private"
+        },
+        "date": 1583629440,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 951148349,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 445228076,
+          "is_bot": false,
+          "first_name": "A",
+          "username": "Ant411",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 445228076,
+          "first_name": "A",
+          "username": "Ant411",
+          "type": "private"
+        },
+        "date": 1583631265,
+        "text": "привет"
+      }
+    },
+    {
+      "update_id": 951148350,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 445228076,
+          "is_bot": false,
+          "first_name": "A",
+          "username": "Ant411",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 445228076,
+          "first_name": "A",
+          "username": "Ant411",
+          "type": "private"
+        },
+        "date": 1583631308,
+        "text": "hi"
+      }
+    }
+  ]
+}
